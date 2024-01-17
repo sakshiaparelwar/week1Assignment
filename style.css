@@ -1,0 +1,51 @@
+body {
+  background-color: azure;
+}
+
+.table1 {
+  margin: 0 auto;
+}
+
+img {
+  border-radius: 50%;
+}
+
+.container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.books {
+  border: 1px solid red;
+  padding-right: 10px;
+}
+
+.table2 {
+  border: 1px solid blue;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.table2 tr th {
+  border: 1px dashed blue;
+  padding: 3px;
+  width: 100px;
+}
+
+.Skills {
+  border: 1px solid green;
+  padding: 5px;
+}
+
+.more {
+  display: flex;
+  justify-content: center;
+}
+
+a {
+  text-decoration: none;
+  border: 2px solid grey;
+  padding: 5px;
+  color: black;
+  font-size: 16px;
+}

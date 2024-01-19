@@ -2,7 +2,8 @@
   color: white;
 }
 body {
-  background: linear-gradient(rgb(38, 37, 37), grey, black);
+  /* background: linear-gradient(rgb(38, 37, 37), grey, black); */
+  background-color: rgb(38, 37, 37);
 }
 
 button {
